@@ -55,8 +55,6 @@ function NumResults({ movies }) {
   );
 }
 
-const KEY = "ccfe54c5";
-
 // Main UI Components
 function MovieList({ movies, onSelectMovie }) {
   return (
